@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    height: 72px;
+    padding: 0 36px;
+    background: #ffffff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.header__logo {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 700;
+    color: #f1b529;
+    text-decoration: none;
+}
